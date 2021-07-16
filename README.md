@@ -6,6 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+# This is the start of my  journey to learn flutter. 
+# In this repo, have flutter app (A catlog app) which has cart adding and removing options and whole lot of features.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
